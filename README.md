@@ -69,8 +69,8 @@ As this project is under active development, specific setup instructions are bei
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Jeshan26/letsmeet-ai](https://github.com/Jeshan26/letsmeet-ai)
-    cd ai-meeting-scheduler
+    git clone https://github.com/Jeshan26/letsmeet-ai
+    cd letsmeet-ai
     ```
 2.  **Install dependencies:**
     ```bash
